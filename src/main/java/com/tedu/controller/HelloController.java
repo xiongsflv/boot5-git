@@ -8,7 +8,7 @@ public class HelloController {
 
     @RequestMapping("info")
     public String info(){
-        return "Hello Spring boot";
+        return "Hello Spring boot 项目经理";
     }
 
     //吕友明是个混球
