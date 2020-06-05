@@ -10,4 +10,6 @@ public class HelloController {
     public String info(){
         return "Hello Spring boot";
     }
+
+    //吕友明是个混球
 }
